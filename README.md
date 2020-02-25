@@ -2,6 +2,8 @@
 
 Ensure a default set of software packages is installed.
 
+[![Build Status](https://travis-ci.org/Caseraw/ansible_role_defaultpackages.svg?branch=master)](https://travis-ci.org/Caseraw/ansible_role_defaultpackages) [<img src="https://img.shields.io/ansible/role/46850">](https://galaxy.ansible.com/caseraw/ansible_role_defaultpackages) [<img src="https://img.shields.io/ansible/role/d/46850">](https://galaxy.ansible.com/caseraw/ansible_role_defaultpackages) [<img src="https://img.shields.io/ansible/quality/46850">](https://galaxy.ansible.com/caseraw/ansible_role_defaultpackages)
+
 - [Ansible role default packages](#ansible-role-default-packages)
   - [License](#license)
   - [Author Information](#author-information)
