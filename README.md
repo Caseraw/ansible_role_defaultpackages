@@ -49,7 +49,7 @@ Compatible with the following list of operating systems:
 
 | Variable name | Description |
 |---------------|-------------|
-| role_defaultpackages_list | List of software packages to install. |
+| role_defaultpackages_package_list | List of software packages to install. |
 
 ## Example Playbook
 
