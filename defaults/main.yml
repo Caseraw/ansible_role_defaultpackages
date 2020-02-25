@@ -1,0 +1,5 @@
+---
+# A list of packages to install.
+role_defaultpackages_package_list: []
+
+...

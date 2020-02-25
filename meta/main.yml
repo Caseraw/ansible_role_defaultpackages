@@ -1,0 +1,26 @@
+---
+galaxy_info:
+  author: Kasra Amirsarvari
+  description: nsure a default set of software packages is installed.
+  company: N/A
+  license: license (BSD, MIT)
+  min_ansible_version: 2.5
+  platforms:
+    - name: Fedora
+      versions:
+        - 28
+        - 29
+        - 30
+        - 31
+    - name: EL
+      versions:
+        - 7
+        - 8
+  galaxy_tags:
+    - packages
+    - software
+    - default
+
+dependencies: []
+
+...
